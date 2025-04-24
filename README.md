@@ -12,4 +12,6 @@ This objective focuses on establishing a secure and reliable connection to your 
    3. **Set Broker Details:** Define the broker's server name to ensure the terminal connects to the correct trading environment.
 
 **Results**
+I'm using **Python** in a **Jupyter Notebook** to connect to my **Deriv demo account** on **MetaTrader 5 (MT5)**. After a successful login, the algorithm prints the **account name**, **type**, and **current balance**.
+The screenshot below confirms the login and data retrieval were successful.
 <p align="left"> <img src="img/login-successful.PNG" alt="Login Successful"> </p>
