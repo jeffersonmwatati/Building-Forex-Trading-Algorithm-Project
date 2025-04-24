@@ -5,7 +5,7 @@ Combining my interest in **Finance** and **Investment** with my **Tech skills**,
 
 ***Note: No code will be shared here, only documentation, experience, screenshots, steps taken on the journey to build the Algorithm***
 
-## Target 1: Develop an Algorithm to Log in to Broker Account on MetaTrader 5
+## Target 1: Log in to Broker Account on MetaTrader 5
 This objective focuses on establishing a secure and reliable connection to your MetaTrader 5 (MT5) trading account through the use of Python. The following steps are involved:
    1. **Initialize MT5 Connection:** Specify the explicit path to the MetaTrader 5 terminal on your local system.
    2. **Login to MT5 Account:** Authenticate using your trading account credentials.
