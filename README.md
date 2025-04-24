@@ -20,3 +20,11 @@ After login, the algorithm places trades automatically by fetching live market d
 **Results** <br/>
 The results confirm that the algorithm successfully identifies trade signals (e.g., bearish trends), calculates trade parameters such as **entry price, stop loss (SL), take profit (TP), and lot size**, and then executes the trade on MetaTrader 5. The output messages verify that the trade was placed as intended, demonstrating the algorithm's ability to respond to market conditions in real time.
 <p align="left"> <img src="img/place-trade1.PNG" alt="Place Trade"> </p>
+
+## Target 3: Evaluate Algorithm Performance
+At this stage, I focus on confirming the performance of the current algorithm. Since the goal is to develop a **scalping strategy**, I assess how well it identifies quick trade opportunities, executes them efficiently, and manages risk in fast-moving market conditions.
+
+**Results** <br/>
+
+**Recommendations** <br/>
+
