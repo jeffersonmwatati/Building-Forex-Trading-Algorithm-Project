@@ -19,4 +19,4 @@ The screenshot below confirms the login and data retrieval were successful.
 After login, the algorithm places trades automatically by fetching live market data, detecting trends, and calculating **RSI** and **ATR** indicators.
 **Results** <br/>
 The results confirm that the algorithm successfully identifies trade signals (e.g., bearish trends), calculates trade parameters such as **entry price, stop loss (SL), take profit (TP), and lot size**, and then executes the trade on MetaTrader 5. The output messages verify that the trade was placed as intended, demonstrating the algorithm's ability to respond to market conditions in real time.
-<p align="left"> <img src="img/place-trade.PNG" alt="Place Trade"> </p>
+<p align="left"> <img src="img/place-trade1.PNG" alt="Place Trade"> </p>
