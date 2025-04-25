@@ -25,6 +25,20 @@ The results confirm that the algorithm successfully identifies trade signals (e.
 At this stage, I focus on confirming the performance of the current algorithm. Since the goal is to develop a **scalping strategy**, I assess how well it identifies quick trade opportunities, executes them efficiently, and manages risk in fast-moving market conditions.
 
 **Results** <br/>
+<p align="left"> <img src="img/placed-trades-well.PNG" alt="placed trades well"> </p>
+
+<p align="left"> <img src="img/good-results.PNG" alt="good results"> </p>
+
+<p align="left"> <img src="img/bad-results.PNG" alt="bad results"> </p>
+
+<p align="left"> <img src="img/bad-results.PNG" alt="bad results"> </p>
+
+<p align="left"> <img src="img/SLTP.jpeg" alt="SL and TP"> </p>
+
+<p align="left"> <img src="loss-amount.PNG" alt="Loss Amount"> </p>
+
+<p align="left"> <img src="balance-loss.PNG" alt="Balance Loss"> </p>
+
 
 **Recommendations** <br/>
 
