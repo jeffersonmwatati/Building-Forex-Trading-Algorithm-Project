@@ -31,14 +31,11 @@ At this stage, I focus on confirming the performance of the current algorithm. S
 
 <p align="left"> <img src="img/bad-results.PNG" alt="bad results"> </p>
 
-<p align="left"> <img src="img/bad-results.PNG" alt="bad results"> </p>
-
 <p align="left"> <img src="img/SLTP.jpeg" alt="SL and TP"> </p>
 
-<p align="left"> <img src="loss-amount.PNG" alt="Loss Amount"> </p>
+<p align="left"> <img src="img/loss-amount.PNG" alt="Loss Amount"> </p>
 
-<p align="left"> <img src="balance-loss.PNG" alt="Balance Loss"> </p>
-
+<p align="left"> <img src="img/balance-loss.PNG" alt="Balance Loss"> </p>
 
 **Recommendations** <br/>
 
